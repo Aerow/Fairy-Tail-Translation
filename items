@@ -13,12 +13,12 @@
 エリア内の味方全員の体力を中回復します : Allies around player recover medium HP : Restores the physical strength of all the allies in the area
 共復ディアマ :HiPotion++ :
 エリア内の味方全員の体力を全回復します : Allies around player recover all HP : Physical strength in the area all allies is recovered(full)
-魔力の粉 : : Powder of magic
-魔力を全回復します : : restore magic
-魔力ラクリマ
-魔力を全回復し、３秒間魔力が減少しません : : Magic is recovered, and all magic doesn't decrease for three seconds.
-魔力ディアマ
-魔力を全回復し、５秒間魔力が減少しません : :Magic is recovered, and all magic doesn't decrease for five seconds.
+魔力の粉 : Ether : Powder of magic
+魔力を全回復します : Small MP recovery : restore magic
+魔力ラクリマ : Ether+ 
+魔力を全回復し、３秒間魔力が減少しません : Medium MP recovery. MP freezes for 3 sec. : Magic is recovered, and all magic doesn't decrease for three seconds.
+魔力ディアマ : Ether++
+魔力を全回復し、５秒間魔力が減少しません : High MP recovery. MP freezes for 5 sec. :Magic is recovered, and all magic doesn't decrease for five seconds.
 返魂ラクリマ
 戦闘不能になったパートナーが
 その場で体力が半分回復し復活します : : Revived on the spot to recover half of their strength
