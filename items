@@ -1,44 +1,47 @@
-回復の粉 : Vital(s)
-体力を小回復します
-回復ラクリマ
-体力を中回復します
-回復ディアマ
-体力を全回復します : Vital(x)
-共復の粉
-エリア内の味方全員の体力を小回復します : Area Vital (s)
+// Translation format :
+// [Japanese text] : [Translation text] : [Actual meaning/ Direct Translation]
+
+回復の粉 : Vital(s) : Powder of recovery
+体力を小回復します : : Physical strength is recovered(small.
+回復ラクリマ : : Recovery {rakurima}
+体力を中回復します: : Physical strength is recovered(medium)
+回復ディアマ : : Recovery {deiama}
+体力を全回復します : Vital(x) : All physical strength is recovered
+共復の粉 : :
+エリア内の味方全員の体力を小回復します : : All allies recover their strength in a small area
 共復ラクリマ
-エリア内の味方全員の体力を中回復します
+エリア内の味方全員の体力を中回復します : : Restores the physical strength of all the allies in the area
 共復ディアマ
-エリア内の味方全員の体力を全回復します
-魔力の粉
-魔力を全回復します
+エリア内の味方全員の体力を全回復します : : Physical strength in the area all allies is recovered(full)
+魔力の粉 : : Powder of magic
+魔力を全回復します : : restore magic
 魔力ラクリマ
-魔力を全回復し、３秒間魔力が減少しません
+魔力を全回復し、３秒間魔力が減少しません : : Magic is recovered, and all magic doesn't decrease for three seconds.
 魔力ディアマ
-魔力を全回復し、５秒間魔力が減少しません
+魔力を全回復し、５秒間魔力が減少しません : :Magic is recovered, and all magic doesn't decrease for five seconds.
 返魂ラクリマ
 戦闘不能になったパートナーが
-その場で体力が半分回復し復活します
+その場で体力が半分回復し復活します : : Revived on the spot to recover half of their strength
 返魂ディアマ
 戦闘不能になったパートナーが
-その場で体力が全回復し復活します
+その場で体力が全回復し復活します : : Revived on the spot to recover all of their strength
 救命ラクリマ
 プレイヤーが戦闘不能になると
-その場で体力が半分回復し自動復活します
+その場で体力が半分回復し自動復活します : : Auto revived on the spot to recover half of their strength
 救命ディアマ
-プレイヤーが戦闘不能になると
-その場で体力が全回復し自動復活します
-ソレム膏
-状態異常を回復します
-リターンパウダー
-ベースキャンプに一瞬で戻ります
+プレイヤーが戦闘不能になると : : When the player cannot battle
+その場で体力が全回復し自動復活します : : The physical strength all recovers at that place and revives automatically
+ソレム膏 : : Solem ointment
+状態異常を回復します : : Restores abnormal status
+リターンパウダー : : Return Powder
+ベースキャンプに一瞬で戻ります : : Return immediately to the base camp
 エキサイトビット
-ボルテージゲージを小回復します
+ボルテージゲージを小回復します : : Voltage gauge is recovered(small)
 剛腕ラクリマ
-一定時間攻撃を強化します
+一定時間攻撃を強化します : : The attack is strengthened during the fixed time.
 剛腕ディアマ
-一定時間攻撃を大きく強化します
+一定時間攻撃を大きく強化します : : The attack is greatly strengthened during the fixed time.
 硬身ラクリマ
-一定時間防御を強化します
+一定時間防御を強化します : : The defense is strengthened during the fixed time.
 硬身ディアマ
-一定時間防御を大きく強化します
+一定時間防御を大きく強化します : : The defense is greatly strengthened during the fixed time.
