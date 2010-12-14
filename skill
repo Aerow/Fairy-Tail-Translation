@@ -1,9 +1,9 @@
 // Translation format :
 // [Japanese text] : [Translation text] : [Actual meaning/ Direct Translation]
-最大体力 : Muscle : The maximum physical strength
+最大体力 : Reckless : The maximum physical strength
 魔力 : Mage : Magic
-攻撃力 : Attack : Offensive ability
-防御力 : Shield : Defense power
+攻撃力 : Guts : Offensive ability
+防御力 : Sturdy : Defense power
 素早さ : Swift : Quickness
 全状態異常耐性 : Ribbon : Abnormal resistance to all states
 マヒ耐性 : Earthed : Paralysis tolerance
@@ -15,21 +15,21 @@
 ボルテージ増加速度 : Charge : Voltage increase acceleration
 重量 : : Weight
 属性付加（火） : Blaze : Attribute addition (fire)
-属性付加（水） : : Attribute addition (water)
-属性付加（風） : : Additional attributes (Wind)
-属性付加（土） : : Attribute addition (earth)
-属性付加（氷） : : Additional attributes (ice)
-属性耐性（雷） : : Attribute resistance (lightning)
-属性耐性（火） : : Attribute tolerance (fire)
-属性耐性（水） : : Attribute tolerance (water)
-属性耐性（風） : : Attribute tolerance (wind)
-属性耐性（土） : : Attribute tolerance (earth)
-属性耐性（氷） : : Attribute resistance (ice)
-属性耐性（雷） : : Attribute resistance (lightning)
+属性付加（水） : Torrent : Attribute addition (water)
+属性付加（風） : TailWind : Additional attributes (Wind)
+属性付加（土） : SandVeil : Attribute addition (earth)
+属性付加（氷） : Icicle : Additional attributes (ice)
+属性耐性（雷） : Limber : Attribute resistance (lightning)
+属性耐性（火） : Damp : Attribute tolerance (fire)
+属性耐性（水） : Steamy : Attribute tolerance (water)
+属性耐性（風） : WindPress : Attribute tolerance (wind)
+属性耐性（土） : Levitate : Attribute tolerance (earth)
+属性耐性（氷） : HotBody : Attribute resistance (ice)
+属性耐性（雷） : Grounded : Attribute resistance (lightning)
 のけぞり
 打ち上げ
 吹き飛ばし
 崩れ落ち力
-特殊攻撃発生率 : : Special attack rate of occurrence
-取得経験値 : : Get experience points
-報酬額 : : Amount of reward
+特殊攻撃発生率 : SuperLuck : Special attack rate of occurrence
+取得経験値 : Guru : Get experience points
+報酬額 : Loot : Amount of reward
