@@ -7,11 +7,11 @@
 体力を中回復します: : Physical strength is recovered(medium)
 回復ディアマ : Potion++ : Recovery {deiama}
 体力を全回復します : : All physical strength is recovered
-共復の粉 : :
+共復の粉 : HiPotion :
 エリア内の味方全員の体力を小回復します : : All allies recover their strength in a small area
-共復ラクリマ
+共復ラクリマ : HiPotion+ :
 エリア内の味方全員の体力を中回復します : : Restores the physical strength of all the allies in the area
-共復ディアマ
+共復ディアマ :HiPotion++ :
 エリア内の味方全員の体力を全回復します : : Physical strength in the area all allies is recovered(full)
 魔力の粉 : : Powder of magic
 魔力を全回復します : : restore magic
