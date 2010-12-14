@@ -3,7 +3,8 @@ Thank you for spending your time helping with the translation in anyway possible
 
 // An important note to all the people willing to contribute :
 If you want to help out with the translation, edit the files in the following way :
-[Japanese text] : [Translated English text]
+[Japanese text] : [Translated English text] : [Actual Meaning]
 and save the file after you are done. An example can be seen in the 'items' file.
+The hard part is naming the items. All the items are to be given custom names which are not finalized. 
 
 Hope the translation will be a success.     ~Aerow@PSPISO
