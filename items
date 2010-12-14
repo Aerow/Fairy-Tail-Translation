@@ -1,12 +1,12 @@
 // Translation format :
 // [Japanese text] : [Translation text] : [Actual meaning/ Direct Translation]
 
-回復の粉 : Vital(s) : Powder of recovery
+回復の粉 : : Powder of recovery
 体力を小回復します : : Physical strength is recovered(small.
 回復ラクリマ : : Recovery {rakurima}
 体力を中回復します: : Physical strength is recovered(medium)
 回復ディアマ : : Recovery {deiama}
-体力を全回復します : Vital(x) : All physical strength is recovered
+体力を全回復します : : All physical strength is recovered
 共復の粉 : :
 エリア内の味方全員の体力を小回復します : : All allies recover their strength in a small area
 共復ラクリマ
