@@ -1,33 +1,35 @@
-最大体力
-魔力
-攻撃力
-防御力
-素早さ
-全状態異常耐性
-マヒ耐性
-凍結耐性
-石化耐性
-水牢耐性
-眠り耐性
-火傷耐性
-ボルテージ増加速度
-重量
-属性付加（火）
-属性付加（水）
-属性付加（風）
-属性付加（土）
-属性付加（氷）
-属性耐性（雷）
-属性耐性（火）
-属性耐性（水）
-属性耐性（風）
-属性耐性（土）
-属性耐性（氷）
-属性耐性（雷）
+// Translation format :
+// [Japanese text] : [Translation text] : [Actual meaning/ Direct Translation]
+最大体力 : : The maximum physical strength
+魔力 : : Magic
+攻撃力 : : Offensive ability
+防御力 : : Defense power
+素早さ : : Quickness
+全状態異常耐性 : : Abnormal resistance to all states
+マヒ耐性 : : Paralysis tolerance
+凍結耐性 : : Freeze tolerance
+石化耐性 : : Petrifaction tolerance
+水牢耐性 : : Water prison tolerance
+眠り耐性 : : Sleep resistance
+火傷耐性 : : Burn resistant
+ボルテージ増加速度 : : Voltage increase acceleration
+重量 : : Weight
+属性付加（火） : : Attribute addition (fire)
+属性付加（水） : : Attribute addition (water)
+属性付加（風） : : Additional attributes (Wind)
+属性付加（土） : : Attribute addition (earth)
+属性付加（氷） : : Additional attributes (ice)
+属性耐性（雷） : : Attribute resistance (lightning)
+属性耐性（火） : : Attribute tolerance (fire)
+属性耐性（水） : : Attribute tolerance (water)
+属性耐性（風） : : Attribute tolerance (wind)
+属性耐性（土） : : Attribute tolerance (earth)
+属性耐性（氷） : : Attribute resistance (ice)
+属性耐性（雷） : : Attribute resistance (lightning)
 のけぞり
 打ち上げ
 吹き飛ばし
 崩れ落ち力
-特殊攻撃発生率
-取得経験値
-報酬額
+特殊攻撃発生率 : : Special attack rate of occurrence
+取得経験値 : : Get experience points
+報酬額 : : Amount of reward
