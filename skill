@@ -1,20 +1,20 @@
 // Translation format :
 // [Japanese text] : [Translation text] : [Actual meaning/ Direct Translation]
-最大体力 : : The maximum physical strength
-魔力 : : Magic
-攻撃力 : : Offensive ability
-防御力 : : Defense power
-素早さ : : Quickness
-全状態異常耐性 : : Abnormal resistance to all states
-マヒ耐性 : : Paralysis tolerance
-凍結耐性 : : Freeze tolerance
-石化耐性 : : Petrifaction tolerance
-水牢耐性 : : Water prison tolerance
-眠り耐性 : : Sleep resistance
-火傷耐性 : : Burn resistant
-ボルテージ増加速度 : : Voltage increase acceleration
+最大体力 : Muscle : The maximum physical strength
+魔力 : Mage : Magic
+攻撃力 : Attack : Offensive ability
+防御力 : Shield : Defense power
+素早さ : Swift : Quickness
+全状態異常耐性 : Ribbon : Abnormal resistance to all states
+マヒ耐性 : Earthed : Paralysis tolerance
+凍結耐性 : Fiery : Freeze tolerance
+石化耐性 : Ageless : Petrifaction tolerance
+水牢耐性 :  : Water prison tolerance
+眠り耐性 : Insomnia : Sleep resistance
+火傷耐性 : Fluids : Burn resistant
+ボルテージ増加速度 : Charge : Voltage increase acceleration
 重量 : : Weight
-属性付加（火） : : Attribute addition (fire)
+属性付加（火） : Blaze : Attribute addition (fire)
 属性付加（水） : : Attribute addition (water)
 属性付加（風） : : Additional attributes (Wind)
 属性付加（土） : : Attribute addition (earth)
