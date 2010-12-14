@@ -19,29 +19,29 @@
 魔力を全回復し、３秒間魔力が減少しません : Medium MP recovery. MP freezes for 3 sec. : Magic is recovered, and all magic doesn't decrease for three seconds.
 魔力ディアマ : Ether++
 魔力を全回復し、５秒間魔力が減少しません : High MP recovery. MP freezes for 5 sec. :Magic is recovered, and all magic doesn't decrease for five seconds.
-返魂ラクリマ
+返魂ラクリマ : Phoenix Down
 戦闘不能になったパートナーが
-その場で体力が半分回復し復活します : : Revived on the spot to recover half of their strength
-返魂ディアマ
+その場で体力が半分回復し復活します : Revives KO'd character with 1/2 HP : Revived on the spot to recover half of their strength
+返魂ディアマ : Mega Phoenix
 戦闘不能になったパートナーが
-その場で体力が全回復し復活します : : Revived on the spot to recover all of their strength
-救命ラクリマ
+その場で体力が全回復し復活します : Revives KO with full HP  : Revived on the spot to recover all of their strength
+救命ラクリマ : Phoenix Pin
 プレイヤーが戦闘不能になると
-その場で体力が半分回復し自動復活します : : Auto revived on the spot to recover half of their strength
-救命ディアマ
+その場で体力が半分回復し自動復活します : Auto revive KO'd character with 1/2 HP : Auto revived on the spot to recover half of their strength
+救命ディアマ : Phoenix Pin+
 プレイヤーが戦闘不能になると : : When the player cannot battle
-その場で体力が全回復し自動復活します : : The physical strength all recovers at that place and revives automatically
-ソレム膏 : : Solem ointment
-状態異常を回復します : : Restores abnormal status
-リターンパウダー : : Return Powder
-ベースキャンプに一瞬で戻ります : : Return immediately to the base camp
+その場で体力が全回復し自動復活します : Auto revive KO with full HP : The physical strength all recovers at that place and revives automatically
+ソレム膏 : Remedy : Solem ointment
+状態異常を回復します : Cure abnormal status : Restores abnormal status
+リターンパウダー : Recall : Return Powder
+ベースキャンプに一瞬で戻ります : Return to base : Return immediately to the base camp
 エキサイトビット
 ボルテージゲージを小回復します : : Voltage gauge is recovered(small)
-剛腕ラクリマ
-一定時間攻撃を強化します : : The attack is strengthened during the fixed time.
-剛腕ディアマ
-一定時間攻撃を大きく強化します : : The attack is greatly strengthened during the fixed time.
-硬身ラクリマ
-一定時間防御を強化します : : The defense is strengthened during the fixed time.
-硬身ディアマ
-一定時間防御を大きく強化します : : The defense is greatly strengthened during the fixed time.
+剛腕ラクリマ : Strength Up
+一定時間攻撃を強化します : Atk Pwr temp. increased : The attack is strengthened during the fixed time.
+剛腕ディアマ : Strength Up+
+一定時間攻撃を大きく強化します : Atk Pwr temp. increased a lot : The attack is greatly strengthened during the fixed time.
+硬身ラクリマ : Defense Up
+一定時間防御を強化します : Def temp. increased : The defense is strengthened during the fixed time.
+硬身ディアマ : Defense Up+
+一定時間防御を大きく強化します : Def temp. increased a lot : The defense is greatly strengthened during the fixed time.
