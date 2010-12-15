@@ -1,6 +1,15 @@
 For all the contributors of this fan-made translation, 
 Thank you for spending your time helping with the translation in anyway possible. With the help of a decent amount of people, this project can achieve a better result than what it would have if only one person were to work on it.
 
+// The Team
+Sorakairi
+Twilight Cinder
+Assasiin
+Aerow
+
+// Character size :
+An important thing regarding translations is the length of the characters. If the Japanese word has 4 characters, the maximum number of English characters that can be used to replace that word is 2*(the number of jap characters), which in this case is 8.
+
 // An important note to all the people willing to contribute :
 If you want to help out with the translation, edit the files in the following way :
 [Japanese text] : [Translated English text] : [Actual Meaning]
